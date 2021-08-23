@@ -1,0 +1,5 @@
+﻿  AutoDeleteDlg.cpp
+E:\VCodeLib\AutoDelete\AutoDelete\AutoDeleteDlg.cpp(378,28): warning C4244: “=”: 从“DWORD”转换到“float”，可能丢失数据
+E:\VCodeLib\AutoDelete\AutoDelete\AutoDeleteDlg.cpp(438,17): warning C4101: “nid”: 未引用的局部变量
+E:\VCodeLib\AutoDelete\AutoDelete\AutoDeleteDlg.cpp(457): warning C4715: “CAutoDeleteDlg::OnShowTask”: 不是所有的控件路径都返回值
+  AutoDelete.vcxproj -> E:\VCodeLib\AutoDelete\x64\Debug\AutoDelete.exe
